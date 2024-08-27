@@ -1,0 +1,34 @@
+/* styles.css */
+ul.custom-bullets {
+    list-style: none; /* Remove default bullets */
+    padding-left: 1rem; /* Add padding to align with custom dots */
+  }
+  
+  ul.custom-bullets li {
+    position: relative;
+    padding-left: 1.5rem; /* Space between the dot and text */
+  }
+  
+  ul.custom-bullets li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #4f4f4f; /* Customize color */
+  }
+  
+  ul.custom-bullets li:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 1rem; /* Adjust height as needed */
+    background-color: #4f4f4f; /* Customize color */
+  }
+  
