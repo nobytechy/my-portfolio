@@ -1,5 +1,5 @@
 # React + Vite
-![Portfolio Screenshot](img.png)
+![Portfolio Screenshot](img.PNG)
 
 # Nobytechy Systems Portfolio
 
