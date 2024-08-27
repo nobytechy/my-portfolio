@@ -27,4 +27,5 @@ Welcome to my portfolio website, **Nobytechy Systems**! This site is designed to
 Contact
     GitHub: https://github.com/nobytechy/
     LinkedIn: https://www.linkedin.com/in/nobytechy/
-    Email: your.email@example.com
+    Email: your.nobytechy@gmail.com
+    Call/Whatsapp: 263774603865
