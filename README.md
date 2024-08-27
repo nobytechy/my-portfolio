@@ -1,2 +1,2 @@
 # React + Vite
-![Gameplay Screenshot](img.png)
+![(img.png)]
